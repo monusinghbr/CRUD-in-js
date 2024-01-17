@@ -1,0 +1,1 @@
+# CRUD is the acronym for CREATE, READ, UPDATE and DELETE.
